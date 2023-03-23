@@ -18,10 +18,12 @@ eg. Given the map (where `.` is passable - `true`, and `#` is blocked - `false`)
 
 then `pathfind(A, P, Q)` should return `6`.
 
+_Please avoid using libraries to implement the algorithmic side of this challenge, other libraries (such as PHPUnit or Jest for testing) are welcome._
+
 ## What to do
 
 1. Clone/Fork this repo or create your own
-2. Implement the function described above
+2. Implement the function described above in any mainstream language you wish
 3. Provide unit tests for your submission
 4. Fill in the section(s) below
 
