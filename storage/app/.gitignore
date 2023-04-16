@@ -1,3 +1,6 @@
 *
 !public/
+!mapTests/
+!mapTests/*
+!map.txt
 !.gitignore
