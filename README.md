@@ -35,14 +35,14 @@ Please fill in the sections below after you complete the challenge.
 
 ### What I'm Pleased With
 
-1. Clone/Fork this repo or create your own
-2. Implement the function described above in any mainstream language you wish
-3. Provide unit tests for your submission
-4. Fill in the section(s) below
+Overall it was an opportunity to experiment with a lot of new concepts and coding techniques.
+During this project I researched different pathfinding algorithms, such as Dijksta's algorithm and A* algorithm (settling down on the latter). I also refereshed my knowledge on raw git, unit tests, file manipulation and multi-dimensional arrays, which I haven't had much contact with recently. 
+I also appreciated the relative challenge, going from not remembering a thing about the required concept to an actual working implementation of the A* algorithm. It was a good learning opportunity.
 
 ### What I Would Have Done With More Time
 
-1. Clone/Fork this repo or create your own
-2. Implement the function described above in any mainstream language you wish
-3. Provide unit tests for your submission
-4. Fill in the section(s) below
+1. Introduced more error-checking\validation throughout the program. The current version requires following the existing procedure more or less to the letter, or it will not work.
+2. Dove deeper into the unit tests, perhaps testing the individual function instead of the whole command, as it is more inline with the concept of the unit test.
+3. Provided more documentation of the working process.
+4. Adapted the code for more varied scenarios, for example, weighted routes and 8-directional movement.
+5. Provided some visual representation of the working algorithm, as looking at moving dots is always more interesting than looking at a number
